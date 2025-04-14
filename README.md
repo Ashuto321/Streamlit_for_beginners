@@ -1,4 +1,3 @@
-
 Streamlit for Beginners
 
 Welcome to the Streamlit for Beginners repository! 🚀 This repository is dedicated to documenting everything I have learned about Streamlit, a powerful framework for building interactive web applications with Python.
