@@ -1,4 +1,3 @@
-
 🌟 Streamlit for Beginners
 
 Welcome to the Streamlit for Beginners repository! 🚀✨
