@@ -4,17 +4,17 @@ Welcome to the Streamlit for Beginners repository! 🚀✨
 
 This repository is dedicated to documenting everything I've learned about Streamlit, a powerful framework for building interactive web applications with Python 🐍💻.
 
-📚 Contents
+📚 Contents:-
 
-🎯 Basic Concepts of Streamlit
+1: 🎯 Basic Concepts of Streamlit
 
-🚀 Advanced Features and Best Practices
+2: 🚀 Advanced Features and Best Practices
 
-🧩 Code Snippets and Examples
+3: 🧩 Code Snippets and Examples
 
-🛠️ Hands-on Projects and Exercises
+4: 🛠️ Hands-on Projects and Exercises
 
-🔗 Useful Resources and Tips
+5: 🔗 Useful Resources and Tips
 
 Feel free to explore, learn, and build amazing apps! 🎨🖥️
 Let's make web development with Python fun and easy! 🎉
